@@ -7,7 +7,7 @@ module.exports = {
     "src": "/dist",
   },
   plugins: [
-    /* ... */
+    "@snowpack/plugin-webpack"
   ],
   packageOptions: {
     /* ... */
